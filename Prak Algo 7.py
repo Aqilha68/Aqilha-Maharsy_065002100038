@@ -1,0 +1,11 @@
+import math
+print(" @@@    @@@     @  @      @    @   @@@ ")
+print("@   @  @   @    @  @      @    @  @   @")
+print("@   @  @   @    @  @      @    @  @   @")
+print("@@@@@  @@  @    @  @      @@@@@@  @@@@@")
+print("@   @  @  @@    @  @      @    @  @   @")
+print("@   @  @   @@   @  @      @    @  @   @")
+print("@   @   @@@  @  @  @@@@@  @    @  @   @")
+n = int(input('Masukkan angka: '))
+faktorial = math.factorial(n)
+print('nilai faktorialnya adalah',faktorial)
