@@ -1,0 +1,11 @@
+print(" @@@    @@@     @  @      @    @   @@@ ")
+print("@   @  @   @    @  @      @    @  @   @")
+print("@   @  @   @    @  @      @    @  @   @")
+print("@@@@@  @@  @    @  @      @@@@@@  @@@@@")
+print("@   @  @  @@    @  @      @    @  @   @")
+print("@   @  @   @@   @  @      @    @  @   @")
+print("@   @   @@@  @  @  @@@@@  @    @  @   @")
+print('list: [5,10,7,4,15,13]')
+a=[5,10,7,4,15,3]
+b=tuple(a)
+print('Hasil reverse list menjadi tuple: ', b)
